@@ -1,3 +1,4 @@
 # Line added in GitHub for test pull request
-print('Love You')
 
+a = input('Escriba su nombre: ')
+print('Hola {a}, gracias por escribir!')
